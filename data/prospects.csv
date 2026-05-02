@@ -1,0 +1,4 @@
+email,first_name,last_name,title,company,_mock_blog_posts,_mock_jobs,_mock_news
+sara@notion.so,Sara,Patel,Director of Revenue Operations,Notion,"[]","[{""title"": ""Sales Engineer"", ""url"": ""https://notion.so/jobs/se""}]","[]"
+elena@linear.app,Elena,Garcia,VP Marketing,Linear,"[{""title"": ""Why we stopped tracking pipeline coverage"", ""quote"": ""We stopped tracking pipeline coverage in Q3...""}]","[]","[]"
+marc@retool.com,Marc,Bernardi,Head of Growth,Retool,"[]","[]","[{""headline"": ""Retool raises $45M Series C""}]"

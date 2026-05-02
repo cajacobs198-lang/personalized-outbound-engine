@@ -1,0 +1,12 @@
+name: Series B devtools
+one_liner: |
+  We give engineering and revenue teams a single API to send transactional + marketing
+  email without the deliverability tax of running two stacks.
+proof_points:
+  - 99.4% inbox placement across 12B sends
+  - Onboarded by Linear, Vercel, and Retool in under 2 weeks
+  - Reduces deliverability eng headcount by ~1 FTE
+sources:
+  - blog_rss
+  - jobs_page
+  - news
